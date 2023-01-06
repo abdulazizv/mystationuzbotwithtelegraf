@@ -1,0 +1,8 @@
+export * from './start.js'
+export * from './main_menu.js'
+export * from './menu_elon.js'
+export * from './settings.js'
+export * from './on_locationteacher.js'
+// export * from './on_location.js'
+export * from './on_contact.js'
+export * from './on_message.js'
